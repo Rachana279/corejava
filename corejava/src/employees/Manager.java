@@ -1,6 +1,6 @@
 package employees;
 
-public class Member {
+public class Manager {
 	private String name;
 	private int managerid;
 	private int salary;

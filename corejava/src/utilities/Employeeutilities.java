@@ -2,14 +2,14 @@ package utilities;
 
 import employees.Employee;
 
-public class EmployeeUtilities {
+public class Employeeutilities {
 	public static void main(String args[])
 	{
 		Employee ob=new Employee();
 		
-		ob.setName("Arun Kumar");
-		ob.setEmployeeid(112);
-		ob.setSalary(75000);
+		ob.setName("Anand");
+		ob.setEmployeeid(98);
+		ob.setSalary(750000);
 		System.out.println(ob);
 		
 	}
